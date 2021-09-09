@@ -9,8 +9,8 @@ import Foundation
 
 print("Hello, World!")
 
-let a = 10
+let aaaa = 10
 let b = 15
-let c = a + b
+let c = aaaa + b
 
-let array = [1 , 2, 4]
+let array = [1 , 2, 4, 5 ,3 ,5]
